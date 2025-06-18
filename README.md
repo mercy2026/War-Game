@@ -17,4 +17,4 @@ Technologies Used:
 - Java
 - Eclipse IDE
 
-![This displays what you will see after running the code.]("C:\Users\mercykoranteng\OneDrive - Harford County Public Schools\Pictures\Screenshots\Screenshot 2025-06-17 230109.png").
+![Screenshot 2025-06-17 230109](https://github.com/user-attachments/assets/38f136a1-4b2b-4adf-870a-c6fa6bd633f5)
