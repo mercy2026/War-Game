@@ -7,4 +7,4 @@ Whichever card is higher in rank will win, and the player with the highere ranki
 
 Who ever is able to get all the cards in the end wins, while the player who is left with no cards loses.
 
-
+![This displays what you will see after running the code.]("C:\Users\mercykoranteng\OneDrive - Harford County Public Schools\Pictures\Screenshots\Screenshot 2025-06-17 230109.png").
